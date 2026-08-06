@@ -31,7 +31,7 @@ const soilTypes = [
   { value: "mountain", label: "Mountain Soil", description: "Thin, suitable for fruits" },
 ];
 
-const seasons = ["Kharif (Monsoon)", "Rabi (Winter)", "Zaid (Summer)"];
+const seasons = ["(Monsoon)", "(Winter)", "(Summer)"];
 
 const budgetRanges = [
   { value: "low", label: "Low (Under ₹50,000)", max: 50000 },
